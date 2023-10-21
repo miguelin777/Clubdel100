@@ -702,7 +702,7 @@ header {
 
 @media only screen and (max-width: 568px) {
     .home {
-        background: linear-gradient(to right, rgba(255,255,255,0.5), rgba(255,255,255,.5)), url(../image/cel1.png);
+        background: linear-gradient(to right, rgba(255,255,255,0.5), rgba(255,255,255,.5)), url(../image/bgHome.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -773,9 +773,9 @@ header {
 }
 
 .about-content .left-details .project {
-    bottom: 400px;
+    bottom: 414px;
     right: 0;
-    left: 240px;
+    left: 229px;
 }
 
 .about-content .left-details .project span {
