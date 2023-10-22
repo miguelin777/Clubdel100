@@ -44,6 +44,9 @@ body {
   background-color: var(--body-color);
   color: var(--text-color);
 }
+#imagen2 {
+    display: none;
+}
 
 ul {
   list-style: none;
@@ -724,7 +727,7 @@ header {
 
 /* ============ about ============ */
 .about {
-    padding-top: 100px;
+    padding-top: 117px;
     margin-top: 60px;
 }
 .about-content {
